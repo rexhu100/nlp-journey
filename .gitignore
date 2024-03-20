@@ -4,6 +4,7 @@
 *.pdf
 *.pickle
 *.npy
+*.png
 
 assignment2/utils/datasets/
 **/__pycache__/
